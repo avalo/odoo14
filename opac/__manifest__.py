@@ -28,6 +28,7 @@
         'security/ir.model.access.csv',
         'views/templates.xml',
         'views/openacademy.xml',
+        'views/session.xml',
 
     ],
     # only loaded in demonstration mode
