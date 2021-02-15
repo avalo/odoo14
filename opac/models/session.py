@@ -1,4 +1,4 @@
-from odoo import models, fields, api
+from odoo import models, fields, api, exceptions
 
 class Session(models.Model):
     _name = 'openacademy.session'
